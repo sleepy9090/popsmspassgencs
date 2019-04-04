@@ -1,0 +1,10 @@
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\bin\Debug\PopSMSPassGen.exe.config
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\bin\Debug\PopSMSPassGen.exe
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\bin\Debug\PopSMSPassGen.pdb
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.Form1.resources
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.Properties.Resources.resources
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.csproj.GenerateResource.cache
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.exe
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.pdb
+C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.csprojAssemblyReference.cache
