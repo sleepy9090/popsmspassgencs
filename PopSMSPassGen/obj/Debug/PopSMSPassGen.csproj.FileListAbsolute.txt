@@ -8,3 +8,13 @@ C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.csproj.
 C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.exe
 C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.pdb
 C:\workspace_sandbox\PopSMSPassGen\PopSMSPassGen\obj\Debug\PopSMSPassGen.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\bin\Debug\PopSMSPassGen.exe.config
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\bin\Debug\PopSMSPassGen.exe
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\bin\Debug\PopSMSPassGen.pdb
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\obj\Debug\PopSMSPassGen.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\obj\Debug\PopSMSPassGen.Form1.resources
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\obj\Debug\PopSMSPassGen.Properties.Resources.resources
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\obj\Debug\PopSMSPassGen.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\obj\Debug\PopSMSPassGen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\obj\Debug\PopSMSPassGen.exe
+C:\Users\Administrator\source\repos\popsmspassgencs\PopSMSPassGen\obj\Debug\PopSMSPassGen.pdb
